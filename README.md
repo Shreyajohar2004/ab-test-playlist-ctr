@@ -51,7 +51,7 @@ After cleaning (removing group/page mismatches and duplicate user IDs): **290,58
 | Metric | Control | Treatment | Lift | Significant? |
 |---|---|---|---|---|
 | Click-through rate | 12.04% | 11.88% | −0.16 pp (−1.3% relative) | **No** (p = 0.9051) |
-| SRM check | 145,274 users | 145,310 users | χ² = 0.0045, p = 0.947 | ✅ Pass |
+| SRM check | 145,274 users | 145,310 users | χ² = 0.0045, p = 0.947 | Pass |
 
 **Segment analysis:** No segment showed a statistically significant lift. The negative trend was consistent across new, returning, and power users.
 
